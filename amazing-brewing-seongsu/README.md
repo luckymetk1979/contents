@@ -187,3 +187,11 @@ GPT Image 2.5는 구독이 필요해 무료 모델인 Nano Banana Pro로 생성�
 | Seedance 2.5 R2V Image 1080p · 20초 | 20,000 크레딧 |
 
 15초 문안: `video_prompt_free_15s.txt`
+
+### 최종 생성(무료 1회 사용)
+- 모델: Seedance 2.0 Mini R2V 480p (modelId 2462), 16:9 · 5초 · 480p · 음향 켬, 0 크레딧
+- 참조: 이미지1 마당 블루아워 생성본(`01a10c00-…559b7`), 이미지2 탭 바 생성본(`01a10c01-…546b5`), 이미지3 양조 탱크 홀 원본(refs/src_brewhouse.jpg)
+- 문안: `video_prompt_free_5s.txt`
+- 결과 generationId: `01a10c05-5a31-7421-bffa-78e178b7c91d` (아트리스트 생성 목록에서 내려받기)
+- 첫 프레임: refs/teaser_first_frame.jpg — 블루아워 마당, 박공 벽 「Amazing」 필기체 백라이트 로고, 줄 전구, 손님들. 원본 로고 위아래의 작은 둥근 글씨(ARTISANAL BEER / BREWING COMPANY)는 흐려지거나 빠졌다.
+- 작업 환경에서 결과 영상을 내려받을 수 없어 소리 크기 측정과 -14 LUFS 게시용 사본은 만들지 못했다.
